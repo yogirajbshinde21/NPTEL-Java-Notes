@@ -3,7 +3,6 @@
 Public class :-
 1] There should be at most 1 public class present in every java code.
 2] File name should be same as the name of Public class name.
-3]
 
 Defualt class :-
 1] There can be more than 1 defualt classes present in the java code.
